@@ -19,3 +19,5 @@ __pycache__
 build/
 out/
 /out/
+out/key_log.json
+out/key_log.txt
